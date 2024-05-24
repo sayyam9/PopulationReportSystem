@@ -81,7 +81,7 @@
 //void establishDatabaseConnection(MYSQL & mysqlInstance) 
 //{
 //    mysql_init(&mysqlInstance);
-//    if (!mysql_real_connect(&mysqlInstance, "localhost", "your_username", "your_password", "world", 0, nullptr, 0)) {
+//    if (!mysql_real_connect(&mysqlInstance, "localhost", "sayyam", "1234", "world", 0, nullptr, 0)) {
 //        cerr << "Error: Unable to connect to database. Exiting..." << endl;
 //        exit(1);
 //    }
