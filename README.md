@@ -1,7 +1,7 @@
-  PopulationReportSystem is a C++ and MySQL application for generating detailed population reports. Users can access and analyze data at various levels, including countries and cities, organized by size. It provides statistics on language speakers and population distributions.
+  PopulationReportSystem is a C# and MySQL application for generating detailed population reports. Users can access and analyze data at various levels, including countries and cities, organized by size. It provides statistics on language speakers and population distributions.
 # PopulationReportSystem
 
-PopulationReportSystem is a C++ and MySQL application for generating detailed population reports. Users can access and analyze data at various levels, including countries and cities, organized by size. It provides statistics on language speakers and population distributions.
+PopulationReportSystem is a C# and MySQL application for generating detailed population reports. Users can access and analyze data at various levels, including countries and cities, organized by size. It provides statistics on language speakers and population distributions.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ PopulationReportSystem is a C++ and MySQL application for generating detailed po
 
 ## Dependencies
 
-- C++11 or higher
+- C#11 or higher
 - MySQL
 - CMake
 - Docker (optional, for containerized setup)
